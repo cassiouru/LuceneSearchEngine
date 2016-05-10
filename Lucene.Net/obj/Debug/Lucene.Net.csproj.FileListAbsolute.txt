@@ -1,0 +1,9 @@
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\Lucene.Net.exe.config
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\Lucene.Net.exe
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\Lucene.Net.pdb
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\Lucene.Net.dll
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\bin\Debug\Lucene.Net.xml
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\obj\Debug\Lucene.Net.csprojResolveAssemblyReference.cache
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\obj\Debug\Lucene.Net.exe
+C:\Users\cassio.silva\Desktop\Lucene.Net\Lucene.Net\obj\Debug\Lucene.Net.pdb
